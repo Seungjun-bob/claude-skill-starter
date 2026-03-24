@@ -147,4 +147,4 @@ Grep/Glob/Read/Bash를 사용하여 패턴을 탐지합니다.
 
 1. `sync-skills/SKILL.md` — 등록 테이블에 행 추가
 2. `run-skills/SKILL.md` — 실행 대상 테이블에 행 추가
-3. `CLAUDE.md` — Skills 테이블이 있으면 행 추가 (없으면 건너뜀)
+3. `CLAUDE.md` — Skills 테이블에 행 추가

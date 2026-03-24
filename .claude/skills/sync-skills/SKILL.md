@@ -162,7 +162,7 @@ git diff main...HEAD --name-only 2>/dev/null
 5. 연관 파일을 업데이트합니다:
    - 이 파일의 등록 테이블에 추가
    - `run-skills/SKILL.md`의 실행 대상 테이블에 추가
-   - `CLAUDE.md`에 Skills 테이블이 있으면 추가 (없으면 건너뜀)
+   - `CLAUDE.md`의 Skills 테이블에 추가
 6. 사용자에게 references/, assets/ 활용법을 안내합니다
 
 #### Step 7: 검증
@@ -193,4 +193,4 @@ git diff main...HEAD --name-only 2>/dev/null
 | File | Purpose |
 |------|---------|
 | `.claude/skills/run-skills/SKILL.md` | 통합 검증 스킬 (실행 대상 목록을 관리) |
-| `CLAUDE.md` | 프로젝트 지침 (있는 경우 Skills 섹션을 관리) |
+| `CLAUDE.md` | 프로젝트 지침 (Skills 섹션을 관리) |

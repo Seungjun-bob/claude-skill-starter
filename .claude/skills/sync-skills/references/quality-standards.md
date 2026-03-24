@@ -47,7 +47,8 @@ ls <file-path> 2>/dev/null || echo "MISSING: <file-path>"
 
 - `sync-skills/SKILL.md`의 등록 테이블에 포함
 - `run-skills/SKILL.md`의 실행 대상 테이블에 포함
-- 두 테이블의 스킬 목록이 동일해야 합니다
+- `CLAUDE.md`의 Skills 테이블에 포함
+- 세 테이블의 스킬 목록이 동일해야 합니다
 - Glob 패턴(`.claude/skills/verify-*/SKILL.md`)으로 실제 존재하는 스킬과 테이블 목록이 일치하는지 확인합니다
 
 ### 7. Description 트리거 조건
